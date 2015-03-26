@@ -18,7 +18,6 @@ import javax.crypto.spec.DHParameterSpec;
 
 import org.apache.commons.codec.binary.Base64;
 
-import com.sun.org.apache.xalan.internal.utils.Objects;
 
 public class RSATest 
 {
